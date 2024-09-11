@@ -1,5 +1,5 @@
 # Crear una matriz 3D para almacenar datos de temperaturas
-# Primera dimensión: Ciudades 
+# Primera dimensión: Ciudades
 # Segunda dimensión: Semanas
 # Tercera dimensión: Días de la semana
 temperaturas = [
