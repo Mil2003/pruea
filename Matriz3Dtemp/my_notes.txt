@@ -1,0 +1,3 @@
+Primera nota: Aprendiendo manejo de archivos en Python.
+Segunda nota: Es importante cerrar los archivos después de usarlos.
+Tercera nota: El método 'with' se encarga de esto automáticamente.
