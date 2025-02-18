@@ -4,7 +4,7 @@ class Producto:
     def __init__(self, id, nombre, cantidad, precio):
         """
         Constructor de la clase Producto.
-        :param id: Identificador único del producto.
+        :param id: Identificador nico del producto.
         :param nombre: Nombre del producto.
         :param cantidad: Cantidad disponible en el inventario.
         :param precio: Precio del producto.

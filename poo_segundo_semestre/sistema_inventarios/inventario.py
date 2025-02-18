@@ -1,18 +1,52 @@
 # inventario.py
 from producto import Producto
+import os
 
 class Inventario:
-    def __init__(self):
+    def __init__(self, archivo='inventario.txt'):
         """
         Constructor de la clase Inventario.
-        Inicializa una lista vacía para almacenar los productos.
+        Inicializa una lista vacía para almacenar los productos y carga los productos desde el archivo.
+        :param archivo: Nombre del archivo donde se almacena el inventario.
         """
+        self.archivo = archivo
         self.productos = []
+        self.cargar_inventario()
+
+    def cargar_inventario(self):
+        """
+        Carga los productos desde el archivo de inventario.
+        Si el archivo no existe, se crea uno nuevo.
+        """
+        try:
+            with open(self.archivo, 'r') as f:
+                for linea in f:
+                    id, nombre, cantidad, precio = linea.strip().split(',')
+                    producto = Producto(id, nombre, int(cantidad), float(precio))
+                    self.productos.append(producto)
+        except FileNotFoundError:
+            print("Archivo de inventario no encontrado. Se crear uno nuevo.")
+            open(self.archivo, 'w').close()
+        except Exception as e:
+            print(f"Error al cargar el inventario: {e}")
+
+    def guardar_inventario(self):
+        """
+        Guarda los productos en el archivo de inventario.
+        """
+        try:
+            with open(self.archivo, 'w') as f:
+                for producto in self.productos:
+                    f.write(f"{producto.get_id()},{producto.get_nombre()},{producto.get_cantidad()},{producto.get_precio()}\n")
+        except PermissionError:
+            print("Error: No se tienen permisos para escribir en el archivo.")
+        except Exception as e:
+            print(f"Error al guardar el inventario: {e}")
 
     def añadir_producto(self, id, nombre, cantidad, precio):
         """
-        Añade un nuevo producto al inventario.
-        :param id: Identificador único del producto.
+        Añade un nuevo producto al inventario y lo guarda en el archivo.
+        :param id: Identificador nico del producto.
         :param nombre: Nombre del producto.
         :param cantidad: Cantidad disponible en el inventario.
         :param precio: Precio del producto.
@@ -22,24 +56,26 @@ class Inventario:
         else:
             nuevo_producto = Producto(id, nombre, cantidad, precio)
             self.productos.append(nuevo_producto)
-            print("Producto añadido con éxito.")
+            self.guardar_inventario()
+            print("Producto añadido con xito.")
 
     def eliminar_producto(self, id):
         """
-        Elimina un producto del inventario por su ID.
-        :param id: Identificador único del producto.
+        Elimina un producto del inventario por su ID y actualiza el archivo.
+        :param id: Identificador nico del producto.
         """
         for producto in self.productos:
             if producto.get_id() == id:
                 self.productos.remove(producto)
-                print("Producto eliminado con éxito.")
+                self.guardar_inventario()
+                print("Producto eliminado con xito.")
                 return
         print("Error: Producto no encontrado.")
 
     def actualizar_producto(self, id, cantidad=None, precio=None):
         """
-        Actualiza la cantidad o el precio de un producto por su ID.
-        :param id: Identificador único del producto.
+        Actualiza la cantidad o el precio de un producto por su ID y actualiza el archivo.
+        :param id: Identificador nico del producto.
         :param cantidad: Nueva cantidad (opcional).
         :param precio: Nuevo precio (opcional).
         """
@@ -49,7 +85,8 @@ class Inventario:
                     producto.set_cantidad(cantidad)
                 if precio is not None:
                     producto.set_precio(precio)
-                print("Producto actualizado con éxito.")
+                self.guardar_inventario()
+                print("Producto actualizado con xito.")
                 return
         print("Error: Producto no encontrado.")
 
@@ -67,7 +104,7 @@ class Inventario:
         Muestra todos los productos en el inventario.
         """
         if not self.productos:
-            print("El inventario está vacío.")
+            print("El inventario est vacío.")
         else:
             for producto in self.productos:
                 print(producto)
