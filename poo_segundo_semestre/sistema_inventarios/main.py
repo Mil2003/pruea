@@ -1,4 +1,3 @@
-# main.py
 from inventario import Inventario
 
 def mostrar_menu():

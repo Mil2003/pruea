@@ -1,10 +1,8 @@
-# producto.py
-
 class Producto:
     def __init__(self, id, nombre, cantidad, precio):
         """
         Constructor de la clase Producto.
-        :param id: Identificador nico del producto.
+        :param id: Identificador único del producto.
         :param nombre: Nombre del producto.
         :param cantidad: Cantidad disponible en el inventario.
         :param precio: Precio del producto.
@@ -34,3 +32,24 @@ class Producto:
 
     def __str__(self):
         return f"ID: {self.id}, Nombre: {self.nombre}, Cantidad: {self.cantidad}, Precio: {self.precio}"
+
+    def to_dict(self):
+        """
+        Convierte el objeto Producto a un diccionario, para ser utilizado en JSON.
+        :return: Diccionario con los atributos del producto.
+        """
+        return {
+            "id": self.id,
+            "nombre": self.nombre,
+            "cantidad": self.cantidad,
+            "precio": self.precio
+        }
+
+    @classmethod
+    def from_dict(cls, data):
+        """
+        Crea un objeto Producto a partir de un diccionario, típicamente deserializado desde JSON.
+        :param data: Diccionario con los datos del producto.
+        :return: Un objeto Producto.
+        """
+        return cls(data['id'], data['nombre'], data['cantidad'], data['precio'])
