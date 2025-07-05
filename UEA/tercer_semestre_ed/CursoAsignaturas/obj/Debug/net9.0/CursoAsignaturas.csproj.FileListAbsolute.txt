@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\bin\Debug\net9.0\CursoAsignaturas.exe
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\bin\Debug\net9.0\CursoAsignaturas.deps.json
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\bin\Debug\net9.0\CursoAsignaturas.runtimeconfig.json
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\bin\Debug\net9.0\CursoAsignaturas.dll
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\bin\Debug\net9.0\CursoAsignaturas.pdb
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\obj\Debug\net9.0\CursoAsignaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\obj\Debug\net9.0\CursoAsignaturas.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\obj\Debug\net9.0\CursoAsignaturas.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\obj\Debug\net9.0\CursoAsignaturas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\obj\Debug\net9.0\CursoAsignaturas.sourcelink.json
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\obj\Debug\net9.0\CursoAsignaturas.dll
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\obj\Debug\net9.0\refint\CursoAsignaturas.dll
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\obj\Debug\net9.0\CursoAsignaturas.pdb
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\obj\Debug\net9.0\CursoAsignaturas.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\CursoAsignaturas\obj\Debug\net9.0\ref\CursoAsignaturas.dll
