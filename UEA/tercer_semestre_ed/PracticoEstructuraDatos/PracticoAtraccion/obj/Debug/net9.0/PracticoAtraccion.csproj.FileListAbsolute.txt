@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\bin\Debug\net9.0\PracticoAtraccion.exe
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\bin\Debug\net9.0\PracticoAtraccion.deps.json
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\bin\Debug\net9.0\PracticoAtraccion.runtimeconfig.json
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\bin\Debug\net9.0\PracticoAtraccion.dll
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\bin\Debug\net9.0\PracticoAtraccion.pdb
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\obj\Debug\net9.0\PracticoAtraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\obj\Debug\net9.0\PracticoAtraccion.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\obj\Debug\net9.0\PracticoAtraccion.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\obj\Debug\net9.0\PracticoAtraccion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\obj\Debug\net9.0\PracticoAtraccion.sourcelink.json
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\obj\Debug\net9.0\PracticoAtraccion.dll
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\obj\Debug\net9.0\refint\PracticoAtraccion.dll
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\obj\Debug\net9.0\PracticoAtraccion.pdb
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\obj\Debug\net9.0\PracticoAtraccion.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Miltonpr\pruea\UEA\tercer_semestre_ed\PracticoEstructuraDatos\PracticoAtraccion\obj\Debug\net9.0\ref\PracticoAtraccion.dll
