@@ -1,0 +1,15 @@
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\obj\Debug\net9.0\VacunacionCOVID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\obj\Debug\net9.0\VacunacionCOVID.AssemblyInfoInputs.cache
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\obj\Debug\net9.0\VacunacionCOVID.AssemblyInfo.cs
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\obj\Debug\net9.0\VacunacionCOVID.csproj.CoreCompileInputs.cache
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\obj\Debug\net9.0\VacunacionCOVID.sourcelink.json
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\bin\Debug\net9.0\VacunacionCOVID.exe
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\bin\Debug\net9.0\VacunacionCOVID.deps.json
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\bin\Debug\net9.0\VacunacionCOVID.runtimeconfig.json
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\bin\Debug\net9.0\VacunacionCOVID.dll
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\bin\Debug\net9.0\VacunacionCOVID.pdb
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\obj\Debug\net9.0\VacunacionCOVID.dll
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\obj\Debug\net9.0\refint\VacunacionCOVID.dll
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\obj\Debug\net9.0\VacunacionCOVID.pdb
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\obj\Debug\net9.0\VacunacionCOVID.genruntimeconfig.cache
+C:\Users\Yosary's PC\Desktop\Miltonfiles\pruea\uea\tercer_semestre_ed\VacunacionCOVID\obj\Debug\net9.0\ref\VacunacionCOVID.dll

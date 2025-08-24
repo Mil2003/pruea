@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "VacunacionCOVID/1.0.0": {
+        "runtime": {
+          "VacunacionCOVID.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VacunacionCOVID/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
