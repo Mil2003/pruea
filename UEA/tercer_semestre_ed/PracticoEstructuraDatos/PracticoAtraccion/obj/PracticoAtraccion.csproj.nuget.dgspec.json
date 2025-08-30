@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Miltonpr\\pruea\\UEA\\tercer_semestre_ed\\PracticoEstructuraDatos\\PracticoAtraccion\\PracticoAtraccion.csproj": {}
+    "C:\\Users\\Yosary's PC\\Desktop\\Miltonfiles\\pruea\\UEA\\tercer_semestre_ed\\PracticoEstructuraDatos\\PracticoAtraccion\\PracticoAtraccion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Miltonpr\\pruea\\UEA\\tercer_semestre_ed\\PracticoEstructuraDatos\\PracticoAtraccion\\PracticoAtraccion.csproj": {
+    "C:\\Users\\Yosary's PC\\Desktop\\Miltonfiles\\pruea\\UEA\\tercer_semestre_ed\\PracticoEstructuraDatos\\PracticoAtraccion\\PracticoAtraccion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Miltonpr\\pruea\\UEA\\tercer_semestre_ed\\PracticoEstructuraDatos\\PracticoAtraccion\\PracticoAtraccion.csproj",
+        "projectUniqueName": "C:\\Users\\Yosary's PC\\Desktop\\Miltonfiles\\pruea\\UEA\\tercer_semestre_ed\\PracticoEstructuraDatos\\PracticoAtraccion\\PracticoAtraccion.csproj",
         "projectName": "PracticoAtraccion",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Miltonpr\\pruea\\UEA\\tercer_semestre_ed\\PracticoEstructuraDatos\\PracticoAtraccion\\PracticoAtraccion.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Miltonpr\\pruea\\UEA\\tercer_semestre_ed\\PracticoEstructuraDatos\\PracticoAtraccion\\obj\\",
+        "projectPath": "C:\\Users\\Yosary's PC\\Desktop\\Miltonfiles\\pruea\\UEA\\tercer_semestre_ed\\PracticoEstructuraDatos\\PracticoAtraccion\\PracticoAtraccion.csproj",
+        "packagesPath": "C:\\Users\\Yosary's PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yosary's PC\\Desktop\\Miltonfiles\\pruea\\UEA\\tercer_semestre_ed\\PracticoEstructuraDatos\\PracticoAtraccion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Yosary's PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
