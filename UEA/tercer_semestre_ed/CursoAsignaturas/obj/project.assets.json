@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yosary's PC\\Desktop\\Miltonfiles\\pruea\\UEA\\tercer_semestre_ed\\CursoAsignaturas\\CursoAsignaturas.csproj",
+      "projectUniqueName": "C:\\Users\\Yosary's PC\\Desktop\\Miltonfiles\\pruea\\pruea\\UEA\\tercer_semestre_ed\\CursoAsignaturas\\CursoAsignaturas.csproj",
       "projectName": "CursoAsignaturas",
-      "projectPath": "C:\\Users\\Yosary's PC\\Desktop\\Miltonfiles\\pruea\\UEA\\tercer_semestre_ed\\CursoAsignaturas\\CursoAsignaturas.csproj",
+      "projectPath": "C:\\Users\\Yosary's PC\\Desktop\\Miltonfiles\\pruea\\pruea\\UEA\\tercer_semestre_ed\\CursoAsignaturas\\CursoAsignaturas.csproj",
       "packagesPath": "C:\\Users\\Yosary's PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yosary's PC\\Desktop\\Miltonfiles\\pruea\\UEA\\tercer_semestre_ed\\CursoAsignaturas\\obj\\",
+      "outputPath": "C:\\Users\\Yosary's PC\\Desktop\\Miltonfiles\\pruea\\pruea\\UEA\\tercer_semestre_ed\\CursoAsignaturas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yosary's PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
