@@ -1,0 +1,3 @@
+CiudadA CiudadB 100
+CiudadA CiudadC 150
+CiudadB CiudadD 50
